@@ -27,7 +27,7 @@
                 <version>3.7.0</version>
                 <configuration>
                  <source>${java.version}</source>
-                    <target>${java.version}</target>
+                 <target>${java.version}</target>
                 </configuration>
             </plugin>
             <plugin>
@@ -55,7 +55,7 @@
             <version>${junit.jupiter.version}</version>
             <scope>test</scope>
         </dependency>
-        <!-- and the engine for surefire and failsafe -->
+        <!-- and the engine for surefire-->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
