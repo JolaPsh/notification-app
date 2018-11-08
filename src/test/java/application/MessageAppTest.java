@@ -2,13 +2,10 @@ package application;
 
 import static application.TestData.*;
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
-
 import java.util.Locale;
 import java.util.ResourceBundle;
-
 
 /**
  * Created by Joanna Pakosh on лист, 2018

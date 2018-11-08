@@ -2,11 +2,9 @@ package application;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
 import java.time.LocalTime;
 import java.util.Locale;
 import java.util.ResourceBundle;
-
 import static application.KeyMessage.*;
 import static util.TimeUtil.*;
 

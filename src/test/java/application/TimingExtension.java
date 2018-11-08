@@ -3,7 +3,6 @@ package application;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.jupiter.api.extension.*;
-
 import java.lang.reflect.Method;
 
 /**
