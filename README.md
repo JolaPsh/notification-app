@@ -1,6 +1,6 @@
 
-##Messaging app
-##
+#Messaging app
+
 [![Build Status](https://travis-ci.com/JolaPsh/notification-app.svg?branch=master)](https://travis-ci.com/JolaPsh/notification-app)
 [![CircleCI](https://circleci.com/gh/JolaPsh/notification-app.svg?style=svg)](https://circleci.com/gh/JolaPsh/notification-app)
 
