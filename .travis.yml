@@ -1,0 +1,8 @@
+# https://docs.travis-ci.com/user/languages/java/
+language: java
+jdk: oraclejdk8
+
+# https://docs.travis-ci.com/user/customizing-the-build#Building-Specific-Branches
+branches:
+  only:
+  - master
